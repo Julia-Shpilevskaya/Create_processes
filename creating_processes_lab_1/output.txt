@@ -1,0 +1,4 @@
+File report "g.bin"
+ID	 name	 number of hours worked	 payment per hour of work
+1	d	4					16
+2	d	5					20
